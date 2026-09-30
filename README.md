@@ -38,6 +38,7 @@
 
 **`[ 01. Languages & Core ]`**<br>
 ![Python](https://img.shields.io/badge/Python-171918?style=for-the-badge&logo=python&logoColor=9A041F)
+![FastAPI](https://img.shields.io/badge/FastAPI-171918?style=for-the-badge&logo=fastapi&logoColor=9A041F)
 ![C++](https://img.shields.io/badge/C++-171918?style=for-the-badge&logo=cplusplus&logoColor=9A041F)
 ![C#](https://img.shields.io/badge/C%23-171918?style=for-the-badge&logo=csharp&logoColor=C5C8BF)
 ![Lua](https://img.shields.io/badge/Lua-171918?style=for-the-badge&logo=lua&logoColor=C5C8BF)
@@ -54,6 +55,7 @@
 **`[ 03. GameDev & Vision ]`**<br>
 ![Godot](https://img.shields.io/badge/Godot-171918?style=for-the-badge&logo=godotengine&logoColor=9A041F)
 ![Unity](https://img.shields.io/badge/Unity-171918?style=for-the-badge&logo=unity&logoColor=C5C8BF)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-171918?style=for-the-badge&logo=unrealengine&logoColor=C5C8BF)
 ![OpenGL](https://img.shields.io/badge/OpenGL-171918?style=for-the-badge&logo=opengl&logoColor=C5C8BF)
 ![OpenCV](https://img.shields.io/badge/OpenCV-171918?style=for-the-badge&logo=opencv&logoColor=C5C8BF)
 
