@@ -40,7 +40,7 @@
 ![Python](https://img.shields.io/badge/Python-171918?style=for-the-badge&logo=python&logoColor=9A041F)
 ![FastAPI](https://img.shields.io/badge/FastAPI-171918?style=for-the-badge&logo=fastapi&logoColor=9A041F)
 ![C++](https://img.shields.io/badge/C++-171918?style=for-the-badge&logo=cplusplus&logoColor=9A041F)
-![C#](https://img.shields.io/badge/C%23-171918?style=for-the-badge&logo=csharp&logoColor=C5C8BF)
+![C#](https://img.shields.io/badge/C%23-171918?style=for-the-badge&logo=c%23&logoColor=C5C8BF)
 ![Lua](https://img.shields.io/badge/Lua-171918?style=for-the-badge&logo=lua&logoColor=C5C8BF)
 ![Bash](https://img.shields.io/badge/Bash-171918?style=for-the-badge&logo=gnu-bash&logoColor=C5C8BF)
 <br><br>
