@@ -99,7 +99,6 @@
  DevOps & CI/CD            [▓▓░░░░░░░░]   →  Docker, GitHub Actions, automated testing pipelines
 ```
 
-```html
 <!-- ───────────────────────── STATS ───────────────────────────── -->
 
 `❯ fastfetch --stats`
@@ -129,5 +128,3 @@
 <div align="center">
 <sub>crafted on arch · running on logic</sub>
 </div>
-
-```
