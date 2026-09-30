@@ -68,7 +68,7 @@
 <div align="center">
 
 <a href="https://github.com/ReBuss666/MyGame">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ReBuss666&repo=MyGame&bg_color=171918&title_color=98A59E&text_color=C5C8BF&icon_color=9A041F&hide_border=true&v=1" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ReBuss666&repo=VoxetGameEngine&bg_color=171918&title_color=98A59E&text_color=C5C8BF&icon_color=9A041F&hide_border=true&v=1" />
 </a>
 <a href="https://github.com/ReBuss666/BlockBlastSolver">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ReBuss666&repo=BlockBlastSolver&bg_color=171918&title_color=98A59E&text_color=C5C8BF&icon_color=9A041F&hide_border=true&v=1" />
