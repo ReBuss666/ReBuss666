@@ -30,3 +30,30 @@
 │   side    →  System automation · GameDev                         │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
+
+`❯ cat stack.conf`
+
+<div align="center">
+
+**`[ 01. Languages & Core ]`**<br>
+![Python](https://img.shields.io/badge/Python-171918?style=for-the-badge&logo=python&logoColor=9A041F)
+![C++](https://img.shields.io/badge/C++-171918?style=for-the-badge&logo=cplusplus&logoColor=9A041F)
+![C#](https://img.shields.io/badge/C%23-171918?style=for-the-badge&logo=csharp&logoColor=C5C8BF)
+![Lua](https://img.shields.io/badge/Lua-171918?style=for-the-badge&logo=lua&logoColor=C5C8BF)
+![Bash](https://img.shields.io/badge/Bash-171918?style=for-the-badge&logo=gnu-bash&logoColor=C5C8BF)
+<br><br>
+
+**`[ 02. Environment & Infra ]`**<br>
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-171918?style=for-the-badge&logo=archlinux&logoColor=9A041F)
+![Docker](https://img.shields.io/badge/Docker-171918?style=for-the-badge&logo=docker&logoColor=C5C8BF)
+![Git](https://img.shields.io/badge/Git-171918?style=for-the-badge&logo=git&logoColor=C5C8BF)
+![Neovim](https://img.shields.io/badge/Neovim-171918?style=for-the-badge&logo=neovim&logoColor=9A041F)
+<br><br>
+
+**`[ 03. GameDev & Vision ]`**<br>
+![Godot](https://img.shields.io/badge/Godot-171918?style=for-the-badge&logo=godotengine&logoColor=9A041F)
+![Unity](https://img.shields.io/badge/Unity-171918?style=for-the-badge&logo=unity&logoColor=C5C8BF)
+![OpenGL](https://img.shields.io/badge/OpenGL-171918?style=for-the-badge&logo=opengl&logoColor=C5C8BF)
+![OpenCV](https://img.shields.io/badge/OpenCV-171918?style=for-the-badge&logo=opencv&logoColor=C5C8BF)
+
+</div>
