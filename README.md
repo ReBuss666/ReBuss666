@@ -22,11 +22,11 @@
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
 │   name    →  Adilet                                              │
+│   nickname→  ReBuss                                              │
 │   role    →  Software Engineering student                        │
-│   uni     →  Kyrgyz-Turkish Manas University                     │
+│   uni     →  Kyrgyz-Turkish Manas University (KTMU)              │
 │   os      →  Arch Linux + Hyprland                               │
 │   editor  →  neovim (LazyVim)                                    │
-│   side    →  System automation · Telegram Bots · GameDev         │
-│   status  →  Logic over everything                               │
+│   side    →  System automation · GameDev                         │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
