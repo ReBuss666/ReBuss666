@@ -104,8 +104,8 @@
 `❯ fastfetch --stats`
 
 <div align="center">
-  <img height="170" src="[https://github-readme-stats.vercel.app/api?username=ReBuss666&bg_color=171918&title_color=98A59E&text_color=C5C8BF&icon_color=9A041F&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=ReBuss666&bg_color=171918&title_color=98A59E&text_color=C5C8BF&icon_color=9A041F&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)" />
-  <img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ReBuss666&bg_color=171918&title_color=98A59E&text_color=C5C8BF&hide_border=true&layout=compact&langs_count=6](https://github-readme-stats.vercel.app/api/top-langs/?username=ReBuss666&bg_color=171918&title_color=98A59E&text_color=C5C8BF&hide_border=true&layout=compact&langs_count=6)" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ReBuss666&bg_color=171918&title_color=98A59E&text_color=C5C8BF&icon_color=9A041F&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReBuss666&bg_color=171918&title_color=98A59E&text_color=C5C8BF&hide_border=true&layout=compact&langs_count=6" />
 </div>
 
 ---
@@ -123,7 +123,7 @@
 </div>
 
 <!-- FOOTER WAVE ─────────────────────────────────────────────────── -->
-<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:171918,50:232624,100:171918&height=80&section=footer](https://capsule-render.vercel.app/api?type=waving&color=0:171918,50:232624,100:171918&height=80&section=footer)" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:171918,50:232624,100:171918&height=80&section=footer" />
 
 <div align="center">
 <sub>crafted on arch · running on logic</sub>
