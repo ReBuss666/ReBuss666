@@ -60,3 +60,77 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-171918?style=for-the-badge&logo=opencv&logoColor=C5C8BF)
 
 </div>
+
+<!-- ─────────────────────── PROJECTS ─────────────────────────── -->
+
+`❯ ls -la ~/projects/`
+
+<div align="center">
+
+<a href="https://github.com/ReBuss666/MyGame">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ReBuss666&repo=MyGame&bg_color=171918&title_color=98A59E&text_color=C5C8BF&icon_color=9A041F&hide_border=true&v=1" />
+</a>
+<a href="https://github.com/ReBuss666/BlockBlastSolver">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ReBuss666&repo=BlockBlastSolver&bg_color=171918&title_color=98A59E&text_color=C5C8BF&icon_color=9A041F&hide_border=true&v=1" />
+</a>
+
+<a href="https://github.com/ReBuss666/Arduinotest">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ReBuss666&repo=Arduinotest&bg_color=171918&title_color=98A59E&text_color=C5C8BF&icon_color=9A041F&hide_border=true&v=1" />
+</a>
+<a href="https://github.com/ReBuss666/opencvtest">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ReBuss666&repo=opencvtest&bg_color=171918&title_color=98A59E&text_color=C5C8BF&icon_color=9A041F&hide_border=true&v=1" />
+</a>
+
+</div>
+
+<!-- ──────────────────── CURRENTLY WORKING ON ─────────────────── -->
+
+`❯ top --processes`
+
+```text
+ process                    progress          context
+ ────────────────────────────────────────────────────────────────────
+ Voxet Engine              [▓▓▓░░░░░░░]   →  Doom-like 2.5D sector-based engine
+ System Automation         [▓▓▓▓▓▓░░░░]   →  ACPI profiling, Bash tooling
+ CV & Hardware             [▓▓░░░░░░░░]   →  OpenCV puzzle solvers & Arduino projects
+ C#/C++                    [▓░░░░░░░░░]   →  Object-Oriented Programming
+ Graphics & Shaders        [▓░░░░░░░░░]   →  OpenGL, HLSL/GLSL rendering pipelines
+ Algorithms & Math         [▓░░░░░░░░░]   →  Computational geometry, pathfinding
+ DevOps & CI/CD            [▓▓░░░░░░░░]   →  Docker, GitHub Actions, automated testing pipelines
+```
+
+```html
+<!-- ───────────────────────── STATS ───────────────────────────── -->
+
+`❯ fastfetch --stats`
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ReBuss666&bg_color=171918&title_color=98A59E&text_color=C5C8BF&icon_color=9A041F&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+</div>
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReBuss666&bg_color=171918&title_color=98A59E&text_color=C5C8BF&hide_border=true&layout=compact&langs_count=6" />
+</div>
+
+---
+
+<!-- ──────────────────────── CONTACT ──────────────────────────── -->
+
+`❯ cat contacts.txt`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-171918?style=for-the-badge&logo=github&logoColor=9A041F)](https://github.com/ReBuss666)
+[![Email](https://img.shields.io/badge/Email-171918?style=for-the-badge&logo=gmail&logoColor=C5C8BF)](mailto:deathnewacc@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-171918?style=for-the-badge&logo=telegram&logoColor=C5C8BF)](https://t.me/+996225779088)
+
+</div>
+
+<!-- FOOTER WAVE ─────────────────────────────────────────────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:171918,50:232624,100:171918&height=80&section=footer" />
+
+<div align="center">
+<sub>crafted on arch · running on logic</sub>
+</div>
+```
+```
